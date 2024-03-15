@@ -35,9 +35,7 @@ Creating documentation for your learning journey is a great way to reinforce you
       - `git merge <branch-name>`: Merges changes from one branch into the current branch.
 
 ### 3. **Hands-On Exercises:**
-Certainly! Here are some additional hands-on exercises you can include in your Git learning journey documentation:
 
-### 3. **Hands-On Exercises:**
    - **Exercise 1 - Creating a Repository:**
       - Initialize a new Git repository.
       - Create a new file, add, and commit it.
